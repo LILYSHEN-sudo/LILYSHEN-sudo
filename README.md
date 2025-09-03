@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🧑‍🎓 I am currently pursuing a Master of Science in Engineering at San Jose State University.  
-- 🔭 I am a full-stack software engineer passionate about **distributed systems, and cloud computing**.
+---
+I'm Lily Shen, a full-stack developer and Machine Learning Engineer.
+- 🧑‍🎓 Master of Science in Engineering student at San Jose State University, GPA:3.95/4 
 
 ### 📫 How to Reach Me
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:le.shen@sjsu.edu)
