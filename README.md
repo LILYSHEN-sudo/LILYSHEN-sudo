@@ -1,7 +1,7 @@
 ### Hi there 👋
 ---
-I'm Lily Shen, a full-stack developer and Machine Learning Engineer.
-- 🧑‍🎓 Master of Science in Engineering student at San Jose State University, GPA:3.95/4 
+I'm Lily Shen, a full-stack developer and Machine Learning Engineer.  
+🧑‍🎓 Master of Science in Engineering student at San Jose State University, GPA:3.95/4 
 
 ### 📫 How to Reach Me
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:le.shen@sjsu.edu)
